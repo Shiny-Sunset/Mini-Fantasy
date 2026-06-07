@@ -1,6 +1,7 @@
 # Mini-Fantasy
 
 Unityで制作したブラウザプレイ可能なアクションRPGです。
+[https://shiny-sunset.github.io/Mini-Fantasy/](https://shiny-sunset.github.io/Mini-Fantasy/)
 
 ## 遊び方
 
