@@ -1,0 +1,34 @@
+# =============================================
+# Unity プロジェクト（ProjectFiles/配下）
+# =============================================
+
+# TextMesh Pro の生成フォントアトラス（自動再生成されるため除外）
+ProjectFiles/Assets/**/*SDF.asset
+
+ProjectFiles/[Ll]ibrary/
+ProjectFiles/[Tt]emp/
+ProjectFiles/[Oo]bj/
+ProjectFiles/[Ll]ogs/
+ProjectFiles/[Uu]ser[Ss]ettings/
+ProjectFiles/[Mm]emory[Cc]aptures/
+
+# =============================================
+# IDE
+# =============================================
+
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.pdb
+
+# =============================================
+# OS固有
+# =============================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
