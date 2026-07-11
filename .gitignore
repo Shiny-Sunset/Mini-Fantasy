@@ -32,3 +32,11 @@ ProjectFiles/[Mm]emory[Cc]aptures/
 .DS_Store
 Thumbs.db
 Desktop.ini
+Library/
+Logs/Packages-Update.log
+Logs/
+Packages/
+*.slnx
+ProjectFiles/.vscode/
+UserSettings/Search.index
+UserSettings/

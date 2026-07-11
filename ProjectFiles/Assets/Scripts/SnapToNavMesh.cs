@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// Editor��Ŏ��s�FNavMesh��ɔz�u
+// Editor上で実行：NavMesh上に配置
 [ExecuteInEditMode]
 public class SnapToNavMesh : MonoBehaviour
 {
